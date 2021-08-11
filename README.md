@@ -1,4 +1,4 @@
-# XP-Manager
+# 8Mi-XPManager
 XP管理器(18x)
 
-XingPiManagerSystem
+8MiTech.XingPiManagerSystem
